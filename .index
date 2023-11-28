@@ -1,3 +1,4 @@
 zk.md
 weather-in-terminal.md
 calloc-vs-malloc-and-memset.md
+fix-block-allocator.md
